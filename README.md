@@ -46,7 +46,7 @@ Banyak orang merasa kewalahan atau kehilangan motivasi saat menggunakan aplikasi
 ## App Screenshots
 
 ![Dashboard](./HomePage.png)
-![Friend List](./friendlist.png)
+![Friend List](./friendList.png)
 ![Leaderboard](./leaderboard.png)
 
 ---
