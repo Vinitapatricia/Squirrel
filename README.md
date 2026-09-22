@@ -1,7 +1,5 @@
 # SQUIRREL – Gamified Productivity & Time Management App
 
-![Squirrel Banner]()
-
 > **Squirrel** adalah desain UI/UX aplikasi manajemen waktu dan produktivitas berbasis **gamifikasi** yang dirancang untuk membantu pengguna mengelola tugas, jadwal, dan catatan secara simpel, efisien, dan menyenangkan.
 
 ---
@@ -47,8 +45,8 @@ Banyak orang merasa kewalahan atau kehilangan motivasi saat menggunakan aplikasi
 
 ## App Screenshots
 
-![Dashboard & Task Overview](./dashboard-preview.png)
-![Gamification & Notes](./features-preview.png)
+![Dashboard & Task Overview](./Home Page.png)
+![Gamification](./friend list.png)
 
 ---
 
